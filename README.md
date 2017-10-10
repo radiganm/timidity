@@ -1,17 +1,13 @@
-======================================================================
-	TiMidity++ -- MIDI-to-WAVE converter and player
+# TiMidity++ -- MIDI-to-WAVE converter and player
 
 					Masanao Izumo
 					<iz@onicos.co.jp>
 					Apr.25.2004
 					version 2.13.0 or later
-======================================================================
 
-======================================================================
-What is this?
-======================================================================
+## What is this?
 
-General information
+### General information
 
 TiMidity++ is a software synthesizer.  It can play MIDI files by con-
 verting them into PCM waveform data; give it a MIDI data along with
@@ -22,7 +18,7 @@ ated waveforms into hard disks as various audio file formats.
 TiMidity++ is a free software, distributed under the terms of GNU gen-
 eral public license.
 
-The history
+### The history
 
 TiMidity++ is based on TiMidity 0.2i, written by Tuukka Toivonen (He
 discontinued development because he was too busy with work), released
@@ -31,9 +27,7 @@ then.  Development has been continued by Masanao Izumo et al. in the
 new project named TiMidity++. `++' is to show the difference from
 original project.
 
-======================================================================
-Features
-======================================================================
+## Features
 
 * Plays MIDI files without any external MIDI instruments at all
 * Understands following formats:
@@ -80,9 +74,7 @@ Features
 * Displays sound spectrogram for the playing music
 * Trace playing
 
-======================================================================
-Where to get a copy
-======================================================================
+## Where to get a copy
 
 The latest release of TiMidity++ are available at:
 
@@ -95,8 +87,6 @@ http://www.asahi-net.or.jp/~gb7t-ngm/timidity/
 http://timidity.s11.xrea.com/index.en.html
   Windows version
 
-======================================================================
-How to install
-======================================================================
+## How to install
 
 Refer INSTALL file in the distribution.
